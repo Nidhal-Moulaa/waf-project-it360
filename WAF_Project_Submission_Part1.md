@@ -1,9 +1,8 @@
 # Web Application Firewall (WAF) - Project Documentation
 ## IT360 Cyber Security Course - First Submission
 
-**Group Members:** [Add your group members here]  
-**Project:** Project 7 - Web Application Firewall  
-**Repository:** [Your GitHub link]  
+**Group Members:** [mohamed nidhal el moulaa , wassef bellila , chaima sleimi , alaa dbira]  
+**Project:** Project 7 - Web Application Firewall   
 **Date:** April 2026
 
 ---
